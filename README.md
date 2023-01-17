@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=junior8319" alt="junior8319" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junior8319&theme=nord&show_icons=true&locale=pt-br" alt="junior8319" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=junior8319&theme=nord&show_icons=true&locale=pt-br" alt="junior8319" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junior8319&theme=nord&locale=pt-br" alt="junior8319" /></p>
