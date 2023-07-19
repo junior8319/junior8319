@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junior8319" alt="junior8319" /></a> </p>
 
-- 🌱 Atualmente estou aprendendo **Java, Angular e Spring**
+- 🌱 Atualmente estou aprendendo **Cloud Computingo com AWS, Java, Angular e Spring**
 
 - 💬 Pergunte sobre **Fórmula 1, futebol, react, inteligência artificial, etc.**
 
