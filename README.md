@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=junior8319&theme=nord&show_icons=true&locale=pt-br" alt="junior8319" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junior8319&locale=pt-br" alt="junior8319" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junior8319&theme=transparent&locale=pt-br" alt="junior8319" /></p>
