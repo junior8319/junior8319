@@ -20,7 +20,7 @@
 
 <h3 align="left">Visite minha página:</h3>
 <p align="left">
-<a href="https://portfolio-frontend-83h0zbtxw-junior8319.vercel.app" target="blank">Meu Portfólio</a>
+<a href="https://portfolio-frontend-83h0zbtxw-junior8319.vercel.app" target="_blank">Meu Portfólio</a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
